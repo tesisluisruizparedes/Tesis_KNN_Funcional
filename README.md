@@ -31,6 +31,18 @@ Cada botón abre el notebook correspondiente:
 - [![12](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tesisluisruizparedes/Tesis_KNN_Funcional/blob/main/scripts/12_Mod_Pro_Parte3_Robustez.ipynb) `12_Mod_Pro_Parte3_Robustez.ipynb`
 
 ---
+---
+
+## 📁 Requisitos de datos en Google Drive
+
+Todos los notebooks están configurados para leer archivos desde la siguiente ruta:
+
+/content/drive/MyDrive/Datos/
+Asegurarse de tener una carpeta llamada Datos/ directamente en MyDrive/
+Colocar dentro al menos el siguiente archivo:
+6_Base_Modelos_Predictivos.parquet
+⚠️ Sin esta estructura, los notebooks no podrán cargar los datos correctamente y producirán error de archivo no encontrado.
+
 
 ## 🧪 Comparación con otros modelos (`scripts_comparativos/`)
 
