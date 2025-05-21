@@ -1,0 +1,23 @@
+# Ignorar archivos temporales de Jupyter/Colab
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*.so
+*.DS_Store
+
+# Ignorar archivos binarios y pesados
+*.npy
+*.pkl
+*.csv
+*.xls*
+*.parquet
+*.zip
+*.tar.gz
+*.png
+*.jpg
+*.jpeg
+
+# Resultados exportados
+resultados/
+graficas/
+*.tex
