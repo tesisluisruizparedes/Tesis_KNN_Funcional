@@ -23,13 +23,17 @@ Cada botón abre el notebook correspondiente:
 | 12_Mod_Pro_Parte3_Robustez.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tesisluisruizparedes/Tesis_KNN_Funcional/blob/main/scripts/12_12_Mod_Pro_Parte3_Robustez.ipynb) |
 
 
-📌 Versión extendida del modelo funcional  
+
+📌 Versión extendida del modelo funcional (con categóricas y temporales)
 Incluye variables categóricas y temporales en la métrica de distancia. Disponible en los siguientes notebooks:  
 
-- 20_Mod_Pro_Mof_Parte_1(Optimizacion).ipynb  
-- 21_Mod_Pro_Modi_Parte_2(Distancias).ipynb  
-- 22_Mod_Pro_Modi_Parte3(Ejecución).ipynb  
-- 23_Mod_Pro_mModi_Parte4(Robustez).ipynb  
+
+| Notebook | Abrir en Colab |
+|----------|----------------|
+| 20_Mod_Pro_Mof_Parte_1(Optimizacion).ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tesisluisruizparedes/Tesis_KNN_Funcional/blob/main/scripts/20_Mod_Pro_Mof_Parte_1(Optimizacion).ipynb) |
+| 21_Mod_Pro_Modi_Parte_2(Distancias).ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tesisluisruizparedes/Tesis_KNN_Funcional/blob/main/scripts/21_Mod_Pro_Modi_Parte_2(Distancias).ipynb) |
+| 22_Mod_Pro_Modi_Parte3(Ejecución).ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tesisluisruizparedes/Tesis_KNN_Funcional/blob/main/scripts/22_Mod_Pro_Modi_Parte3(Ejecución).ipynb) |
+| 23_Mod_Pro_mModi_Parte4(Robustez).ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tesisluisruizparedes/Tesis_KNN_Funcional/blob/main/scripts/23_Mod_Pro_mModi_Parte4(Robustez).ipynb) |
 
 📁 Requisitos de datos en Google Drive  
 Todos los notebooks están configurados para leer archivos desde:  
