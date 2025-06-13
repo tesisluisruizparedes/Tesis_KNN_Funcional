@@ -1,41 +1,37 @@
-
-# 📘 Tesis Doctoral: Predicción de Quiebra Empresarial con k-NN Funcional
-
+📘 Tesis Doctoral: Predicción de Quiebra Empresarial con k-NN Funcional  
 Este repositorio contiene todos los scripts necesarios para reproducir la metodología, evaluación y comparación del modelo funcional k-NN propuesto en la tesis doctoral, con énfasis en su interpretabilidad y competitividad frente a modelos tradicionales y avanzados.
 
----
+⚙️ Estructura del Repositorio  
+Tesis_KNN_Funcional/  
+├── Datos/                      # Contiene la base funcional mínima 8_  
+├── scripts/                   # Modelo k-NN funcional base y extendido  
+├── scripts_comparativos/     # Modelos tradicionales, avanzados y secuenciales  
+├── README.md  
+├── requirements.txt  
+└── .gitignore  
 
-## ⚙️ Estructura del Repositorio
-
-```
-Tesis_KNN_Funcional/
-├── Datos/                      # Contiene solo la base limpia 6_
-├── scripts/                   # Modelo k-NN funcional optimizado
-├── scripts_comparativos/     # Modelos tradicionales, avanzados y secuenciales
-├── README.md
-├── requirements.txt
-└── .gitignore
-```
-
----
-
-## ▶️ Ejecutar modelo funcional (Google Colab)
-
+▶️ Ejecutar modelo funcional (Google Colab)  
 Cada botón abre el notebook correspondiente:
 
-- [![07](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tesisluisruizparedes/Tesis_KNN_Funcional/blob/main/scripts/7_Analisis_Exploratorio.ipynb) `7_Analisis_Exploratorio.ipynb`
-- [![08](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tesisluisruizparedes/Tesis_KNN_Funcional/blob/main/scripts/8_Construccion_base_funcional.ipynb) `8_Construccion_base_funcional.ipynb`
-- [![09](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tesisluisruizparedes/Tesis_KNN_Funcional/blob/main/scripts/9_Mod_Pro_Parte_1_Optimizacion.ipynb) `9_Mod_Pro_Parte_1_Optimizacion.ipynb`
-- [![10](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tesisluisruizparedes/Tesis_KNN_Funcional/blob/main/scripts/10_Mod_Pro_Parte2_Distancias.ipynb) `10_Mod_Pro_Parte2_Distancias.ipynb`
-- [![11](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tesisluisruizparedes/Tesis_KNN_Funcional/blob/main/scripts/11_Mod_Pro_Parte3_ejecucion.ipynb) `11_Mod_Pro_Parte3_ejecucion.ipynb`
-- [![12](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tesisluisruizparedes/Tesis_KNN_Funcional/blob/main/scripts/12_Mod_Pro_Parte3_Robustez.ipynb) `12_Mod_Pro_Parte3_Robustez.ipynb`
+- 07 7_Analisis_Exploratorio.ipynb  
+- 08 8_Construccion_base_funcional.ipynb  
+- 09 9_Mod_Pro_Parte_1_Optimizacion.ipynb  
+- 10 10_Mod_Pro_Parte2_Distancias.ipynb  
+- 11 11_Mod_Pro_Parte3_ejecucion.ipynb  
+- 12 12_Mod_Pro_Parte3_Robustez.ipynb  
 
----
----
+📌 Versión extendida del modelo funcional  
+Incluye variables categóricas y temporales en la métrica de distancia. Disponible en los siguientes notebooks:  
 
-## 📁 Requisitos de datos en Google Drive
+- 20_Mod_Pro_Mof_Parte_1(Optimizacion).ipynb  
+- 21_Mod_Pro_Modi_Parte_2(Distancias).ipynb  
+- 22_Mod_Pro_Modi_Parte3(Ejecución).ipynb  
+- 23_Mod_Pro_mModi_Parte4(Robustez).ipynb  
 
-Todos los notebooks están configurados para leer archivos desde la siguiente ruta:
+📁 Requisitos de datos en Google Drive  
+Todos los notebooks están configurados para leer archivos desde:  
+
+
 
 /content/drive/MyDrive/Datos/
 Asegurarse de tener una carpeta llamada Datos/ directamente en MyDrive/
