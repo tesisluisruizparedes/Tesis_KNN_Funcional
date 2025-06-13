@@ -13,12 +13,15 @@ Tesis_KNN_Funcional/
 ▶️ Ejecutar modelo funcional (Google Colab)  
 Cada botón abre el notebook correspondiente:
 
-- 07 7_Analisis_Exploratorio.ipynb  
-- 08 8_Construccion_base_funcional.ipynb  
-- 09 9_Mod_Pro_Parte_1_Optimizacion.ipynb  
-- 10 10_Mod_Pro_Parte2_Distancias.ipynb  
-- 11 11_Mod_Pro_Parte3_ejecucion.ipynb  
-- 12 12_Mod_Pro_Parte3_Robustez.ipynb  
+| Notebook | Abrir en Colab |
+|----------|----------------|
+| 7_Analisis_Exploratorio.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tesisluisruizparedes/Tesis_KNN_Funcional/blob/main/scripts/07_7_Analisis_Exploratorio.ipynb) |
+| 8_Construccion_base_funcional.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tesisluisruizparedes/Tesis_KNN_Funcional/blob/main/scripts/08_8_Construccion_base_funcional.ipynb) |
+| 9_Mod_Pro_Parte_1_Optimizacion.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tesisluisruizparedes/Tesis_KNN_Funcional/blob/main/scripts/09_9_Mod_Pro_Parte_1_Optimizacion.ipynb) |
+| 10_Mod_Pro_Parte2_Distancias.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tesisluisruizparedes/Tesis_KNN_Funcional/blob/main/scripts/10_10_Mod_Pro_Parte2_Distancias.ipynb) |
+| 11_Mod_Pro_Parte3_ejecucion.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tesisluisruizparedes/Tesis_KNN_Funcional/blob/main/scripts/11_11_Mod_Pro_Parte3_ejecucion.ipynb) |
+| 12_Mod_Pro_Parte3_Robustez.ipynb | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tesisluisruizparedes/Tesis_KNN_Funcional/blob/main/scripts/12_12_Mod_Pro_Parte3_Robustez.ipynb) |
+
 
 📌 Versión extendida del modelo funcional  
 Incluye variables categóricas y temporales en la métrica de distancia. Disponible en los siguientes notebooks:  
